@@ -1,0 +1,11 @@
+.header {
+  padding: 1.5rem 0;
+}
+.nav {
+  text-align: center;
+}
+.nav-brand {
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 1.5rem;
+}
