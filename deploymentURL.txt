@@ -1,0 +1,3 @@
+client: https://wizardly-fermat-85d656.netlify.app/
+source client: https://github.com/wasifbaliyan/ansr-ecom-client
+source server: https://github.com/wasifbaliyan/ansr-ecom-server
